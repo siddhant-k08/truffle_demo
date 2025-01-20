@@ -1,3 +1,6 @@
+# Successfully created 10 blocks, result attached below:
+
+```bash
 Result {
   '0': BN {
     negative: 0,
